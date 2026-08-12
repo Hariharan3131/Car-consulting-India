@@ -7,7 +7,10 @@ authors = [
     { name = "Hari", email = "anshari94432@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "flake8>=7.3.0",
+    "pytest>=9.1.1",
+]
 
 [project.scripts]
 car = "car:main"

@@ -1,0 +1,26 @@
+# Core
+streamlit
+pandas
+numpy
+
+# RAG & LangChain
+langchain
+langchain-community
+langchain-huggingface
+langchain-core
+sentence-transformers
+chromadb
+
+# Evaluation
+ragas
+datasets
+
+# Code Quality
+flake8
+
+# Environment & Utils
+python-dotenv
+
+# Optional (for later FastAPI)
+fastapi
+uvicorn[standard]
